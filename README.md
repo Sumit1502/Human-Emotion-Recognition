@@ -1,1 +1,2 @@
 # Human-Emotion-Recognition
+Human-Emotion-Recognition is a Python-based project that utilizes machine learning and deep learning techniques to analyze facial expressions and classify human emotions such as happiness, sadness, anger, and surprise. It leverages computer vision libraries like OpenCV and deep learning frameworks such as TensorFlow or PyTorch to achieve real-time emotion detection from images or video streams
